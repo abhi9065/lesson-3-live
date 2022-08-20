@@ -11,6 +11,11 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
+hr{
+
+    margin: 2rem rem;
+}
+
 .container{
 
     
