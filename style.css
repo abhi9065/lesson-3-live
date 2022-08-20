@@ -1,15 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:ital,wght@0,400;1,700&family=Pacifico&family=Rubik+Moonrocks&display=swap');
+
 body{
-    color: rebeccapurple;
-}
 
-h1{
-    color: crimson;
-}
-
-#lib-header {
-color:green;
-}
-
-.para{
-    color: rgb(0, 51, 255);
+    font-family: 'Montserrat', sans-serif;
 }
