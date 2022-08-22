@@ -70,3 +70,32 @@ hr{
     padding: 0rem 0.5rem;
     
 }
+
+
+.navigation{
+
+    background-color: var(---primary-color);
+    color: white;
+    padding: 1rem;
+    border-bottom-left-radius: 1rem;
+}
+
+.navigation .nav-brand{
+
+   font-weight: bold; 
+}
+
+.navigation .nav-pills{
+
+    text-align: center;
+}
+
+.navigation .link{
+
+    color: white;
+}
+
+ .link-active{
+
+    font-weight: bold;
+}
