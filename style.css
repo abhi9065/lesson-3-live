@@ -128,3 +128,25 @@ hr{
 
     color: var(---primary-color);
 }
+
+
+
+/*section*/
+
+.section{
+
+    padding: 2rem;
+
+}
+
+
+.section h1{
+
+    text-align: center;
+   
+}
+
+.ow{
+
+    background-color: #686a6d;
+}
